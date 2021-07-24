@@ -25,7 +25,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/asus/RMX1921/device.mk)
+$(call inherit-product, device/realme/RMX1921/device.mk)
 
 # Inherit common PA configuration
 $(call inherit-product, vendor/pa/config/common_full_phone.mk)
@@ -37,7 +37,7 @@ PRODUCT_MANUFACTURER := realme
 PRODUCT_MODEL := realme XT_RMX1921
 PRODUCT_NAME := pa_RMX1921
 
-PRODUCT_GMS_CLIENTID_BASE := android-asus
+PRODUCT_GMS_CLIENTID_BASE := android-realme
 
 TARGET_VENDOR := realme
 TARGET_VENDOR_PRODUCT_NAME := RMX1921
