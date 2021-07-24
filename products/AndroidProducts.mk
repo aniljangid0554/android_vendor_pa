@@ -40,7 +40,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/oneplus9/pa_oneplus9.mk \
     $(LOCAL_DIR)/oneplus9pro/pa_oneplus9pro.mk \
     $(LOCAL_DIR)/polaris/pa_polaris.mk \
-    $(LOCAL_DIR)/raphael/pa_raphael.mk \
+    $(LOCAL_DIR)/RMX1921/pa_RMX1921.mk \
     $(LOCAL_DIR)/sagit/pa_sagit.mk \
     $(LOCAL_DIR)/wayne/pa_wayne.mk \
     $(LOCAL_DIR)/X00TD/pa_X00TD.mk
@@ -71,7 +71,7 @@ COMMON_LUNCH_CHOICES += \
     pa_oneplus9-userdebug \
     pa_oneplus9pro-userdebug \
     pa_polaris-userdebug \
-    pa_raphael-userdebug \
+    pa_RMX1921-userdebug \
     pa_sagit-userdebug \
     pa_wayne-userdebug \
     pa_X00TD-userdebug
